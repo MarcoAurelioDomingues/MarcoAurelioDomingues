@@ -1,5 +1,5 @@
  ## Olá, meu nome é Marco Aurelio Domingues 👋
-- 🎓 Sou Formado em ciências da computação, contudo atuei em outras áreas nos últimos anos, hoje estou me atualizando para ingressar na TI.
+- 🎓 Bacharel em ciências da computação, contudo atuei em outras áreas nos últimos anos, hoje estou me atualizando para ingressar na TI.
 - 👀 Tenho interesse em linguagens Python, C# e .NET, Computação em núvem e banco de dados.
 - 🌱 No momento estou estudando C#, .NET e Python. 
 - 💞️ Busco colaborar como estagiário ou desenvolvedor junior presencial, remoto ou híbrido.
@@ -14,8 +14,8 @@
 
 <div align="center">
   <a href="https://github.com/MarcoAurelioDomingues">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=MarcoAurelioDomingues&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoAurelioDomingues&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcoAurelioDomingues&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+
 </div>
 
   ## Dev Skills
